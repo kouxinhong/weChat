@@ -16,7 +16,9 @@ import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ *这是一个仿微信的页面
+ */
 public class MainActivity extends FragmentActivity implements View.OnClickListener,ViewPager.OnPageChangeListener {
 
     private ViewPager mViewPager;

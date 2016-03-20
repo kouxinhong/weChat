@@ -17,7 +17,9 @@ import butterknife.ButterKnife;
 import butterknife.InjectView;
 import butterknife.OnClick;
 
-
+/**
+ * 这是一个mvp的例子
+ */
 public class LoginActivity extends FragmentActivity implements ILoginView {
 
     @InjectView(R.id.et_username)
